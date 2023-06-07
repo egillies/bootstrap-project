@@ -1,0 +1,10 @@
+.bottle-img {
+    max-height: 40vh;
+}
+
+.square-img {
+    height: 25vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
